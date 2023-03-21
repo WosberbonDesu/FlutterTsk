@@ -47,6 +47,7 @@ lib/
       services/
         database_provider.dart
   features/
+      pages/
         home_page.dart
         add_item_page.dart
         edit_item_page.dart
@@ -66,4 +67,7 @@ lib/
 # Acknowledgements
 This app was built using the Flutter framework and the **BLoC** pattern. The **sqflite** package was used to store and retrieve data from a local database. The app also incorporates some animations using the **lottie** package.
 
-pages/![Adsız tasarım](https://user-images.githubusercontent.com/69467096/226712955-5bd2884e-121e-471d-b542-c8365468ea30.png)
+
+
+
+![Adsız tasarım](https://user-images.githubusercontent.com/69467096/226713865-a2344af2-7954-44de-a365-baec083f59f1.png)
