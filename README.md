@@ -62,3 +62,7 @@ lib/
 * **widgets** - contains the reusable widgets of the app, including the TodoItemWidget and DeleteConfirmationDialog
 * **services** - contains the implementation for interacting with the local database
 * **main.dart** - contains the entry point for the app
+
+
+# Acknowledgements
+This app was built using the Flutter framework and the **BLoC** pattern. The **sqflite** package was used to store and retrieve data from a local database. The app also incorporates some animations using the lottie package.
