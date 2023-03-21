@@ -31,21 +31,23 @@ flutter run
 ## Example Code Structure
 ```python
 lib/
-  models/
-    todo_item.dart
-  bloc/
-    todo_bloc.dart
-    todo_event.dart
-    todo_state.dart
-  pages/
-    home_page.dart
-    add_item_page.dart
-    edit_item_page.dart
-  widgets/
-    todo_item_widget.dart
-    delete_confirmation_dialog.dart
-  services/
-    database_provider.dart
-main.dart
+  core/
+      models/
+        todo_item.dart
+      bloc/
+        todo_bloc.dart
+        todo_event.dart
+        todo_state.dart
+  features/
+      pages/
+        home_page.dart
+        add_item_page.dart
+        edit_item_page.dart
+      widgets/
+        todo_item_widget.dart
+        delete_confirmation_dialog.dart
+      services/
+        database_provider.dart
+  main.dart
 ```
 
