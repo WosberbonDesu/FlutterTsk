@@ -50,4 +50,9 @@ lib/
         database_provider.dart
   main.dart
 ```
-
+* **models** - contains the TodoItem model used to represent a to-do item
+* **bloc** - contains the BLoC implementation for managing the state of the app
+* **pages** - contains the pages of the app, including the home page, add item page, and edit item page
+* **widgets** - contains the reusable widgets of the app, including the TodoItemWidget and DeleteConfirmationDialog
+* **services** - contains the implementation for interacting with the local database
+* **main.dart** - contains the entry point for the app
