@@ -29,6 +29,12 @@ flutter run
 * **equatable**: This package is used to compare objects for equality.
 * 
 ## Example Code Structure
+The app is organized using the **BLoC** pattern. The lib directory contains the following directories:
+
+* **bloc**: Contains the BLoC classes and events.
+* **data**: Contains the data models and database provider.
+* **ui**: Contains the UI components, screens, and widgets.
+
 ```python
 lib/
   core/
