@@ -8,3 +8,9 @@ This is a simple ToDo app built with the Flutter framework that uses the BLoC pa
 * Add, edit, and delete tasks
 * User-friendly design
 * Animations
+
+# Getting Started 
+1- Clone Repository
+```ruby
+git clone https://github.com/WosberbonDesu/FlutterTsk.git
+```
