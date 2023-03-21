@@ -44,6 +44,8 @@ lib/
         todo_bloc.dart
         todo_event.dart
         todo_state.dart
+      services/
+        database_provider.dart
   features/
       pages/
         home_page.dart
@@ -52,8 +54,6 @@ lib/
       widgets/
         todo_item_widget.dart
         delete_confirmation_dialog.dart
-      services/
-        database_provider.dart
   main.dart
 ```
 * **models** - contains the TodoItem model used to represent a to-do item
