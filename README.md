@@ -65,4 +65,4 @@ lib/
 
 
 # Acknowledgements
-This app was built using the Flutter framework and the **BLoC** pattern. The **sqflite** package was used to store and retrieve data from a local database. The app also incorporates some animations using the lottie package.
+This app was built using the Flutter framework and the **BLoC** pattern. The **sqflite** package was used to store and retrieve data from a local database. The app also incorporates some animations using the **lottie** package.
